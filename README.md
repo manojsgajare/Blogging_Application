@@ -4,9 +4,10 @@ Spring Boot blog API application
 
 ## Entity Relationship Diagram
 
+![blogApi](https://user-images.githubusercontent.com/98097534/204750142-26d05fff-c72e-43ae-ba19-27aad96f6d0f.png)
 
 
-<img src="https://i.imgur.com/SeX80BI.jpg" alt="ER Diagram"/>
+
 
 ## Features
 - User Login / Signup 
