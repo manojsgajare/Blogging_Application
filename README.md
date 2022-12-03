@@ -1,5 +1,5 @@
 # Blogging_Application
-Spring Boot blog API application
+Spring Boot blog API application.
 
 
 ## Entity Relationship Diagram
